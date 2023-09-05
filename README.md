@@ -73,7 +73,7 @@ Send a GET request to the `/country/:alphaCode` endpoint to retrieve detailed in
 **Method:** GET
 
 **Parameters:**
-- `alphaCode` (Path Parameter): The alpha-2 code of the country (e.g., `US` for the United States).
+- `alphaCode` (Path Parameter): The alpha-2 code of the country (e.g., `TR` for Turkey).
 
 **Example Request:**
 
